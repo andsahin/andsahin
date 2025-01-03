@@ -14,7 +14,4 @@ To achieve a stable position where I can contribute effectively with my skills a
 - Javascript 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RatulSikder97&layout=compact">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andsahin)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andsahin&layout=compact">
