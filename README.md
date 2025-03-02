@@ -22,4 +22,4 @@ To achieve a stable position where I can contribute effectively with my skills a
 ## Other Stuff
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Ratul's github status](https://github-readme-stats.vercel.app/api?username=andsahin&show_icons=true)
+![Sahin's github status](https://github-readme-stats.vercel.app/api?username=andsahin&show_icons=true)
