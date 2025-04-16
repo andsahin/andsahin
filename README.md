@@ -1,4 +1,3 @@
-![Programming I love](https://media.licdn.com/dms/image/v2/C5116AQEfAdqi6LFvdg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1524827158983?e=1741219200&v=beta&t=BUk3f-xYclKNdn1QvNTWbDu0PwhCqGAZGb5EnLCxaBs)
 ### Hi there 👋
 
 #### I'm Md Sahin 
